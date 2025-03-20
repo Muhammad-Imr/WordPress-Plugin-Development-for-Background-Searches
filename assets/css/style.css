@@ -1,0 +1,12 @@
+#tracers-search-form {
+    background-color: black;
+    color: gold;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#tracers-results {
+    margin-top: 20px;
+    background-color: darkgray;
+    padding: 10px;
+}
